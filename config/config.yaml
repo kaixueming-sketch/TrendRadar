@@ -116,7 +116,7 @@ platforms:
 # max_age_days: 可选，覆盖全局 freshness_filter.max_age_days
 # ===============================================================
 rss:
-  enabled: false                       # 是否启用 RSS 抓取（true=启用, false=关闭）
+  enabled: true                       # 是否启用 RSS 抓取（true=启用, false=关闭）
 
   # 文章新鲜度过滤（过滤超龄旧文章，避免重复推送）
   # 仅在推送阶段过滤，所有文章仍会存入数据库
@@ -145,6 +145,21 @@ rss:
     - id: "yahoo-finance"
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
+
+    - id: "bbc-chinese-world"
+      name: "BBC中文（国际）"
+      url: "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml"
+      max_age_days: 1
+
+    - id: "dw-chinese-world"
+      name: "德国之声中文"
+      url: "https://rss.dw.com/rdf/rss-chi-all"
+      max_age_days: 1
+
+    - id: "voa-chinese-world"
+      name: "美国之音中文"
+      url: "https://www.voachinese.com/api/zm_yql-vomx-tpeybti"
+      max_age_days: 1
 
     # 自定义源示例
     # - id: "custom-feed"
@@ -265,7 +280,7 @@ display:
 #    配对项（如 Telegram token 和 chat_id）数量必须一致
 # ===============================================================
 notification:
-  enabled: true                       # 是否启用通知功能（true=启用, false=关闭）—— 总开关
+  enabled: false                       # 是否启用通知功能（true=启用, false=关闭）—— 总开关
                                       # 开启 schedule 后此项仍为总开关：false=永远不推送，true=由调度控制
 
   # 推送渠道配置
