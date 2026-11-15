@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-15T12:56:25.948442+08:00",
-  "total_titles_processed": 360,
+  "generated_at": "2026-11-15T13:49:39.729096+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "以色列要撇开美国，单独打伊朗？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 12时56分]"
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 13时49分]"
         },
         {
           "title": "伊朗新“导弹城”高调亮相，有何深意？",
@@ -26,19 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 12时56分]"
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 13时49分]"
         },
         {
           "title": "据巴林电视台报道，此前有多架伊朗单程攻击无人机在巴林上空被发现，随后遭防空系统拦截并摧毁。",
           "url": "https://flash.jin10.com/detail/20261115122445319800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时34分 ~ 12时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时34分 ~ 13时49分]"
         },
         {
           "title": "据伊朗Press TV：伊朗伊斯兰革命卫队称，6架无人机袭击了位于巴林里法（Al-Rifaa）直升机基地的一处美国防空雷达设施。",
@@ -56,11 +57,34 @@
           "url": "https://flash.jin10.com/detail/20261115122040625800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时34分 ~ 12时56分]"
+          "appearance_count": 4,
+          "time_info": "[12时34分 ~ 13时49分]"
+        },
+        {
+          "title": "以色列密集向美通报伊朗核动向，以军主张再对伊朗动武",
+          "url": "https://flash.jin10.com/detail/20261115122837915800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
+          "title": "伊朗革命卫队称打击巴林美军雷达设施",
+          "url": "https://flash.jin10.com/detail/20261115122120320800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         },
         {
           "title": "美媒：伊朗局势紧张之际，摩萨德局长赴美与CIA局长接触",
@@ -68,11 +92,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 12时56分]"
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 13时49分]"
         },
         {
           "title": "伊朗在霍尔木兹海峡仍然占据主动",
@@ -80,11 +105,12 @@
           "source": "金十数据",
           "ranks": [
             12,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 12时56分]"
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 13时49分]"
         },
         {
           "title": "伊朗称霍尔木兹海峡以南2艘油轮触雷发生爆炸",
@@ -94,8 +120,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 12时56分]"
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 13时49分]"
         },
         {
           "title": "据巴林电视台：防空系统拦截并摧毁一架伊朗无人机。",
@@ -103,23 +129,12 @@
           "source": "金十数据",
           "ranks": [
             16,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 12时56分]"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：部分阿拉伯媒体报道称，巴林哈利法港工业区发生爆炸。",
-          "url": "https://flash.jin10.com/detail/20261115094446166800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 12时56分]"
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 13时49分]"
         },
         {
           "title": "伊朗称拦截并摧毁一架美MQ1无人机",
@@ -129,8 +144,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 12时56分]"
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 13时49分]"
         },
         {
           "title": "伊朗称又有一艘油轮在霍尔木兹海峡触雷起火",
@@ -138,6 +153,18 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 13时49分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：部分阿拉伯媒体报道称，巴林哈利法港工业区发生爆炸。",
+          "url": "https://flash.jin10.com/detail/20261115094446166800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            26
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -157,6 +184,309 @@
       ]
     },
     {
+      "keyword_group": "央行 降息 加息 通胀 A股 港股 汇率 原油 利率",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "“AI央行”失去掌舵人，华尔街警告：黄仁勋离开将引爆“AI版量化紧缩”！",
+          "url": "https://wallstreetcn.com/articles/3785942",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 13时49分]"
+        },
+        {
+          "title": "胖东来羽绒服标注进货价与毛利率",
+          "url": "https://www.toutiao.com/trending/7706487347159777818/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 13时49分]"
+        },
+        {
+          "title": "央行重大调整",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E9%87%8D%E5%A4%A7%E8%B0%83%E6%95%B4%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 13时49分]"
+        },
+        {
+          "title": "央行重大调整",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E9%87%8D%E5%A4%A7%E8%B0%83%E6%95%B4",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            20,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 13时49分]"
+        },
+        {
+          "title": "央行将开展2000亿元买断式逆回购操作 缩量续作稳定市场预期",
+          "url": "https://www.cls.cn/detail/2534228",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 13时49分]"
+        },
+        {
+          "title": "美军中央司令部：已护航超17亿桶原油通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3200145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 13时49分]"
+        },
+        {
+          "title": "华福证券宏观首席陈兴：产业基础提质与国产替代加速，A股中长期结构性行情主线清晰",
+          "url": "https://flash.jin10.com/detail/20261115094422937800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 12时56分]"
+        },
+        {
+          "title": "胖东来羽绒服标注进货价与毛利率",
+          "url": "https://www.baidu.com/s?wd=%E8%83%96%E4%B8%9C%E6%9D%A5%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%A0%87%E6%B3%A8%E8%BF%9B%E8%B4%A7%E4%BB%B7%E4%B8%8E%E6%AF%9B%E5%88%A9%E7%8E%87",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技 芯片 半导体 大模型 苹果 华为 小米 手机",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "老黄离职后，“大空头”加码做空科技股！警告AI热潮或陷入“牛市陷阱”",
+          "url": "https://wallstreetcn.com/articles/3785936",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时34分]"
+        },
+        {
+          "title": "解读证监会主席吴清讲话：回应近期部分科技企业上市估值溢价泡沫，“加强科技企业发行上市制度适配性和风险应对机制研究”",
+          "url": "https://wallstreetcn.com/articles/3785951",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 13时49分]"
+        },
+        {
+          "title": "余承东宣布华为Mate X8即将登场",
+          "url": "https://www.toutiao.com/trending/7708206597830525450/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 13时49分]"
+        },
+        {
+          "title": "创投资本“转向”：撤离具身智能，回流半导体",
+          "url": "https://www.cls.cn/detail/2534602",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 13时49分]"
+        },
+        {
+          "title": "评论员：美芯片壁垒助推中国国产订单",
+          "url": "https://www.toutiao.com/trending/7706995412405780534/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 13时49分]"
+        },
+        {
+          "title": "吴清：研究优化量化交易、减持等制度安排，加强科技企业发行上市制度适配性研究",
+          "url": "https://wallstreetcn.com/articles/3785937",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（11月15日）",
+          "url": "https://flash.jin10.com/detail/20261115103937009800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 13时49分]"
+        },
+        {
+          "title": "为什么千万用户选择华为大折叠",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%83%E4%B8%87%E7%94%A8%E6%88%B7%E9%80%89%E6%8B%A9%E5%8D%8E%E4%B8%BA%E5%A4%A7%E6%8A%98%E5%8F%A0%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中美 外交 制裁 停火 关税 峰会 俄乌",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "APEC工商领导人峰会将发布“深圳倡议”，系创办30年来首次",
+          "url": "https://wallstreetcn.com/livenews/3200162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 13时49分]"
+        },
+        {
+          "title": "中美工商界代表提议加强亚太供应链合作",
+          "url": "https://wallstreetcn.com/livenews/3200160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 13时49分]"
+        },
+        {
+          "title": "超百家世界500强企业代表将参加APEC工商领导人峰会",
+          "url": "https://wallstreetcn.com/livenews/3200158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 13时49分]"
+        },
+        {
+          "title": "12位APEC经济体领导人将出席峰会",
+          "url": "https://www.toutiao.com/trending/7708217760140821001/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时34分 ~ 13时49分]"
+        },
+        {
+          "title": "12位APEC经济体领导人将出席APEC工商领导人峰会",
+          "url": "https://wallstreetcn.com/livenews/3200157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 13时49分]"
+        },
+        {
+          "title": "超百家世界500强企业代表将参加APEC工商领导人峰会",
+          "url": "https://flash.jin10.com/detail/20261115110752222800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 13时49分]"
+        },
+        {
+          "title": "中美工商界代表提议加强亚太供应链合作",
+          "url": "https://flash.jin10.com/detail/20261115105309158800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 13时49分]"
+        },
+        {
+          "title": "3D复原俄乌战争前线情况",
+          "url": "https://search.bilibili.com/all?keyword=3D%E5%A4%8D%E5%8E%9F%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89%E5%89%8D%E7%BA%BF%E6%83%85%E5%86%B5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
       "match_count": 4,
       "titles": [
@@ -168,8 +498,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 12时56分]"
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 13时49分]"
         },
         {
           "title": "美国法官暂时叫停特朗普关闭华盛顿历史高尔夫球场计划",
@@ -177,11 +507,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 12时56分]"
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 13时49分]"
         },
         {
           "title": "观察｜特朗普又对伊朗打出经济封锁牌，但美国能说了算吗？",
@@ -189,11 +520,12 @@
           "source": "澎湃新闻",
           "ranks": [
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 12时56分]"
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 13时49分]"
         },
         {
           "title": "报道：特朗普考虑暂缓对伊朗军事打击",
@@ -203,8 +535,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 12时56分]"
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 13时49分]"
         }
       ]
     },
@@ -220,8 +552,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 12时56分]"
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 13时49分]"
         },
         {
           "title": "美股收盘：苹果、“美国茅台”再创新高 AI交易依然颠簸",
@@ -231,8 +563,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 12时56分]"
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 13时49分]"
         },
         {
           "title": "美国10月PPI低于预期 美股三大期指受提振携手上涨 | 今夜看点",
@@ -257,6 +589,24 @@
           "source": "财联社热门",
           "ranks": [
             9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 13时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "好价 优惠券 满减 折扣 到手价 历史低价 促销 补贴",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "董明珠称格力逐步取消文凭考量，本事是硬通行证，格力技校学费 9000 元起，但格力每年补贴 1 亿，如何解读？",
+          "url": "https://www.zhihu.com/question/2104981734446065518",
+          "source": "知乎",
+          "ranks": [
+            14,
+            19
           ],
           "is_new": false,
           "appearance_count": 5,
