@@ -1,0 +1,95 @@
+name: X Global Trends
+
+on:
+  schedule:
+    - cron: "17 0 * * *" # 每天北京时间 08:17
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  fetch-and-publish:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Fetch X trends and notify WeCom
+        env:
+          APIDIRECT_API_KEY: ${{ secrets.APIDIRECT_API_KEY }}
+          WEWORK_WEBHOOK_URL: ${{ secrets.WEWORK_WEBHOOK_URL }}
+        run: |
+          python - <<'PY'
+          import json, os, sys
+          from datetime import datetime, timezone, timedelta
+          from urllib.request import Request, urlopen
+          from urllib.error import HTTPError, URLError
+
+          key = os.environ.get("APIDIRECT_API_KEY", "").strip()
+          if not key:
+              raise SystemExit("Missing APIDIRECT_API_KEY repository secret")
+          req = Request(
+              "https://apidirect.io/v1/twitter/trends?woeid=1",
+              headers={"X-API-Key": key, "Accept": "application/json"},
+          )
+          try:
+              with urlopen(req, timeout=30) as response:
+                  payload = json.load(response)
+          except (HTTPError, URLError, TimeoutError) as exc:
+              raise SystemExit(f"API Direct request failed: {exc}")
+          trends = payload.get("trends", [])
+          if not isinstance(trends, list):
+              raise SystemExit("Unexpected API response: trends is not a list")
+          now = datetime.now(timezone(timedelta(hours=8))).isoformat(timespec="seconds")
+          data = {
+              "location": payload.get("location", "Worldwide"),
+              "woeid": payload.get("woeid", 1),
+              "as_of": payload.get("as_of") or now,
+              "fetched_at": now,
+              "count": len(trends),
+              "trends": trends,
+          }
+          os.makedirs("api", exist_ok=True)
+          with open("api/x-trends.json", "w", encoding="utf-8") as f:
+              json.dump(data, f, ensure_ascii=False, indent=2)
+          hook = os.environ.get("WEWORK_WEBHOOK_URL", "").strip()
+          if hook and trends:
+              lines = [f"🌐 X 全球趋势（{len(trends)} 条）"]
+              lines.extend(f"{i}. {t.get('name','')}" for i,t in enumerate(trends, 1))
+              body = json.dumps({"msgtype":"text","text":{"content":"\n".join(lines)}}).encode()
+              notify = Request(hook, data=body, headers={"Content-Type":"application/json"}, method="POST")
+              try:
+                  with urlopen(notify, timeout=20) as response:
+                      result = json.load(response)
+                  if result.get("errcode", 0) != 0:
+                      raise SystemExit(f"WeCom rejected notification: errcode={result.get('errcode')}")
+                  print("WeCom notification sent")
+              except (HTTPError, URLError, TimeoutError) as exc:
+                  raise SystemExit(f"WeCom notification failed: {exc}")
+          print(f"Fetched {len(trends)} worldwide trends")
+          PY
+
+      - name: Commit trends data
+        run: |
+          git config user.name 'GitHub Actions'
+          git config user.email 'actions@github.com'
+          git add api/x-trends.json
+          git diff --cached --quiet || (git commit -m "Update X worldwide trends" && git push)
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
