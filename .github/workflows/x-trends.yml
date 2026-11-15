@@ -49,6 +49,19 @@ jobs:
           trends = payload.get("trends", [])
           if not isinstance(trends, list):
               raise SystemExit("Unexpected API response: trends is not a list")
+          from urllib.parse import urlencode
+          for trend in trends:
+              name = str(trend.get("name", "")).strip()
+              if not name:
+                  continue
+              try:
+                  translate_url = "https://translate.googleapis.com/translate_a/single?" + urlencode({"client":"gtx","sl":"auto","tl":"zh-CN","dt":"t","q":name})
+                  translate_req = Request(translate_url, headers={"User-Agent":"Mozilla/5.0"})
+                  with urlopen(translate_req, timeout=12) as response:
+                      translated = json.load(response)
+                  trend["name_zh"] = "".join(part[0] for part in translated[0] if part and part[0]).strip() or name
+              except Exception:
+                  trend["name_zh"] = name
           now = datetime.now(timezone(timedelta(hours=8))).isoformat(timespec="seconds")
           data = {
               "location": payload.get("location", "Worldwide"),
