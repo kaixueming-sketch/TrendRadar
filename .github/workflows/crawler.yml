@@ -1,58 +1,75 @@
-name: Hot News Crawler
+name: Get Hot News
 
 on:
   schedule:
-    # 我们使用的是 github 官方提供的资源来进行的推送，而每个账号的资源是限额的，为了不被官方判定为滥用而面临封号的风险，不建议比半小时更低
-    - cron: "0 * * * *" # 每小时整点运行一次(实际有偏差) 或者 "*/30 * * * *" (每半小时执行一次) 或者 "*/30 0-14 * * *"(每天早上 8 点到晚上 10 点期间，每半小时运行一次)
+    - cron: "0 * * * *"
   workflow_dispatch:
 
-# 避免手动运行和定时运行重叠处理同一批新闻
 concurrency:
-  group: trend-radar-crawler
+  group: crawler-${{ github.ref_name }}
   cancel-in-progress: false
 
-# 添加权限设置
 permissions:
   contents: write
+  actions: write
   pages: write
   id-token: write
 
 jobs:
   crawl:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+          clean: true
+
+      - name: Check Expiration
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          WORKFLOW_FILE="crawler.yml"
+          API_URL="repos/${{ github.repository }}/actions/workflows/$WORKFLOW_FILE/runs"
+          TOTAL=$(gh api "$API_URL" --jq '.total_count')
+          if [ -z "$TOTAL" ] || [ "$TOTAL" -eq 0 ]; then
+            echo "No previous runs found, skipping expiration check"
+            exit 0
+          fi
+          LAST_PAGE=$(( (TOTAL + 99) / 100 ))
+          FIRST_RUN_DATE=$(gh api "$API_URL?per_page=100&page=$LAST_PAGE" --jq '.workflow_runs[-1].created_at')
+          if [ -n "$FIRST_RUN_DATE" ]; then
+            CURRENT_TIMESTAMP=$(date +%s)
+            FIRST_RUN_TIMESTAMP=$(date -d "$FIRST_RUN_DATE" +%s)
+            DIFF_SECONDS=$((CURRENT_TIMESTAMP - FIRST_RUN_TIMESTAMP))
+            LIMIT_SECONDS=604800
+            if [ $DIFF_SECONDS -gt $LIMIT_SECONDS ]; then
+              echo "Trial expired. Run 'Check In' to renew."
+              gh workflow disable "$WORKFLOW_FILE"
+              exit 1
+            else
+              DAYS_LEFT=$(( (LIMIT_SECONDS - DIFF_SECONDS) / 86400 ))
+              echo "Trial: ${DAYS_LEFT} days left. Run 'Check In' before expiry."
+            fi
+          fi
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v6
         with:
-          python-version: "3.11"
+          python-version: "3.12"
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v7
 
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-          playwright install --with-deps
+        run: uv sync --frozen --no-dev
 
       - name: Verify required files
         run: |
-          echo "🔍 检查必需的配置文件..."
-
-          if [ ! -f config/config.yaml ]; then
-            echo "❌ 错误: config/config.yaml 文件不存在"
-            echo "请参考项目文档创建配置文件"
-            exit 1
-          fi
-
-          if [ ! -f config/frequency_words.txt ]; then
-            echo "❌ 错误: config/frequency_words.txt 文件不存在"
-            echo "请参考项目文档创建频率词配置文件"
-            exit 1
-          fi
-
-          echo "✅ 配置文件检查通过"
+          test -f config/config.yaml
+          test -f config/frequency_words.txt
 
       - name: Run crawler
         env:
@@ -61,8 +78,9 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           DINGTALK_WEBHOOK_URL: ${{ secrets.DINGTALK_WEBHOOK_URL }}
           WEWORK_WEBHOOK_URL: ${{ secrets.WEWORK_WEBHOOK_URL }}
-          GITHUB_ACTIONS: true
-        run: python main.py
+          WEWORK_MSG_TYPE: markdown
+          GITHUB_ACTIONS: "true"
+        run: uv run python -m trendradar
 
       - name: Commit and push if changes
         run: |
