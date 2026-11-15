@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T12:34:48.939065+08:00",
-  "total_titles_processed": 347,
+  "generated_at": "2026-11-15T12:48:16.285792+08:00",
+  "total_titles_processed": 353,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 12时48分]"
         },
         {
           "title": "伊朗新“导弹城”高调亮相，有何深意？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 12时48分]"
         },
         {
           "title": "据巴林电视台报道，此前有多架伊朗单程攻击无人机在巴林上空被发现，随后遭防空系统拦截并摧毁。",
@@ -36,9 +36,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 12时48分]"
         },
         {
           "title": "据伊朗Press TV：伊朗伊斯兰革命卫队称，6架无人机袭击了位于巴林里法（Al-Rifaa）直升机基地的一处美国防空雷达设施。",
@@ -47,9 +47,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 12时48分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗伊斯兰革命卫队（IRGC）对美国在巴林的军事基地发动袭击，以回应美国的“敌对”行动。",
@@ -58,9 +58,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 12时48分]"
         },
         {
           "title": "美媒：伊朗局势紧张之际，摩萨德局长赴美与CIA局长接触",
@@ -71,8 +71,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时34分]"
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 12时48分]"
         },
         {
           "title": "伊朗在霍尔木兹海峡仍然占据主动",
@@ -83,8 +83,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时34分]"
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 12时48分]"
         },
         {
           "title": "伊朗称霍尔木兹海峡以南2艘油轮触雷发生爆炸",
@@ -94,8 +94,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时34分]"
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 12时48分]"
         },
         {
           "title": "据巴林电视台：防空系统拦截并摧毁一架伊朗无人机。",
@@ -106,8 +106,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时34分]"
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 12时48分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：部分阿拉伯媒体报道称，巴林哈利法港工业区发生爆炸。",
@@ -118,8 +118,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时34分]"
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 12时48分]"
         },
         {
           "title": "伊朗称拦截并摧毁一架美MQ1无人机",
@@ -129,8 +129,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时34分]"
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 12时48分]"
         },
         {
           "title": "伊朗称又有一艘油轮在霍尔木兹海峡触雷起火",
@@ -140,8 +140,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时34分]"
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 12时48分]"
         },
         {
           "title": "美国情报评估：伊朗仍拥有1500至2500枚导弹",
@@ -168,8 +168,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 12时48分]"
         },
         {
           "title": "美国法官暂时叫停特朗普关闭华盛顿历史高尔夫球场计划",
@@ -180,8 +180,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时34分]"
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 12时48分]"
         },
         {
           "title": "观察｜特朗普又对伊朗打出经济封锁牌，但美国能说了算吗？",
@@ -192,8 +192,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 12时48分]"
         },
         {
           "title": "报道：特朗普考虑暂缓对伊朗军事打击",
@@ -203,8 +203,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时34分]"
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 12时48分]"
         }
       ]
     },
@@ -220,8 +220,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 12时48分]"
         },
         {
           "title": "美股收盘：苹果、“美国茅台”再创新高 AI交易依然颠簸",
@@ -231,8 +231,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 12时48分]"
         },
         {
           "title": "美国10月PPI低于预期 美股三大期指受提振携手上涨 | 今夜看点",
@@ -259,8 +259,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时34分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 12时48分]"
         }
       ]
     }
