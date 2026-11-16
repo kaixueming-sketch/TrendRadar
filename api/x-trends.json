@@ -1,309 +1,359 @@
 {
   "location": "Worldwide",
   "woeid": 1,
-  "as_of": "2026-11-15T05:12:43Z",
-  "fetched_at": "2026-11-15T13:12:43+08:00",
+  "as_of": "2026-11-16T01:38:31Z",
+  "fetched_at": "2026-11-16T09:38:48+08:00",
   "count": 50,
   "trends": [
     {
-      "name": "#UFC334",
-      "query": "%23UFC334",
+      "name": "Cowboys",
+      "query": "Cowboys",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%23UFC334"
+      "url": "http://twitter.com/search?q=Cowboys",
+      "name_zh": "Cowboys"
     },
     {
-      "name": "#香名江にインタビュー",
-      "query": "%23%E9%A6%99%E5%90%8D%E6%B1%9F%E3%81%AB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC",
+      "name": "49ers",
+      "query": "49ers",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%23%E9%A6%99%E5%90%8D%E6%B1%9F%E3%81%AB%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%93%E3%83%A5%E3%83%BC"
+      "url": "http://twitter.com/search?q=49ers",
+      "name_zh": "49ers"
     },
     {
-      "name": "#AEWFullGear",
-      "query": "%23AEWFullGear",
+      "name": "#ブラックサンダーとミルクマニア",
+      "query": "%23%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%81%A8%E3%83%9F%E3%83%AB%E3%82%AF%E3%83%9E%E3%83%8B%E3%82%A2",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%23AEWFullGear"
+      "url": "http://twitter.com/search?q=%23%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%81%A8%E3%83%9F%E3%83%AB%E3%82%AF%E3%83%9E%E3%83%8B%E3%82%A2",
+      "name_zh": "#ブラックサンダーとミルクマニア"
     },
     {
-      "name": "Amanda Nunes",
-      "query": "%22Amanda+Nunes%22",
+      "name": "Niners",
+      "query": "Niners",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22Amanda+Nunes%22"
+      "url": "http://twitter.com/search?q=Niners",
+      "name_zh": "Niners"
     },
     {
-      "name": "Kayla Harrison",
-      "query": "%22Kayla+Harrison%22",
+      "name": "Von Miller",
+      "query": "%22Von+Miller%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22Kayla+Harrison%22"
+      "url": "http://twitter.com/search?q=%22Von+Miller%22",
+      "name_zh": "Von Miller"
     },
     {
-      "name": "Arch Manning",
-      "query": "%22Arch+Manning%22",
+      "name": "#FTTB",
+      "query": "%23FTTB",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22Arch+Manning%22"
+      "url": "http://twitter.com/search?q=%23FTTB",
+      "name_zh": "#FTTB"
     },
     {
-      "name": "#モンスト無職転生",
-      "query": "%23%E3%83%A2%E3%83%B3%E3%82%B9%E3%83%88%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F",
+      "name": "Steelers",
+      "query": "Steelers",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%23%E3%83%A2%E3%83%B3%E3%82%B9%E3%83%88%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F"
+      "url": "http://twitter.com/search?q=Steelers",
+      "name_zh": "Steelers"
     },
     {
-      "name": "#StreamFighters5",
-      "query": "%23StreamFighters5",
+      "name": "Christian Parker",
+      "query": "%22Christian+Parker%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%23StreamFighters5"
+      "url": "http://twitter.com/search?q=%22Christian+Parker%22",
+      "name_zh": "Christian Parker"
     },
     {
-      "name": "Lane Kiffin",
-      "query": "%22Lane+Kiffin%22",
+      "name": "Purdy",
+      "query": "Purdy",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22Lane+Kiffin%22"
+      "url": "http://twitter.com/search?q=Purdy",
+      "name_zh": "Purdy"
     },
     {
-      "name": "Texas",
-      "query": "Texas",
+      "name": "England",
+      "query": "England",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Texas"
+      "url": "http://twitter.com/search?q=England",
+      "name_zh": "England"
     },
     {
-      "name": "Sam Leavitt",
-      "query": "%22Sam+Leavitt%22",
+      "name": "Scottie",
+      "query": "Scottie",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22Sam+Leavitt%22"
+      "url": "http://twitter.com/search?q=Scottie",
+      "name_zh": "Scottie"
     },
     {
-      "name": "Holland",
-      "query": "Holland",
+      "name": "Jerry Jones",
+      "query": "%22Jerry+Jones%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Holland"
+      "url": "http://twitter.com/search?q=%22Jerry+Jones%22",
+      "name_zh": "Jerry Jones"
     },
     {
-      "name": "Sark",
-      "query": "Sark",
+      "name": "Pickens",
+      "query": "Pickens",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Sark"
+      "url": "http://twitter.com/search?q=Pickens",
+      "name_zh": "Pickens"
     },
     {
-      "name": "BRAN",
-      "query": "BRAN",
+      "name": "Mendoza",
+      "query": "Mendoza",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=BRAN"
+      "url": "http://twitter.com/search?q=Mendoza",
+      "name_zh": "Mendoza"
     },
     {
-      "name": "MILKLOVE MUVSICAL HOUSE",
-      "query": "%22MILKLOVE+MUVSICAL+HOUSE%22",
+      "name": "Spain",
+      "query": "Spain",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22MILKLOVE+MUVSICAL+HOUSE%22"
+      "url": "http://twitter.com/search?q=Spain",
+      "name_zh": "Spain"
     },
     {
-      "name": "エリザベス女王杯",
-      "query": "%E3%82%A8%E3%83%AA%E3%82%B6%E3%83%99%E3%82%B9%E5%A5%B3%E7%8E%8B%E6%9D%AF",
+      "name": "#SVDebateFinal",
+      "query": "%23SVDebateFinal",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E3%82%A8%E3%83%AA%E3%82%B6%E3%83%99%E3%82%B9%E5%A5%B3%E7%8E%8B%E6%9D%AF"
+      "url": "http://twitter.com/search?q=%23SVDebateFinal",
+      "name_zh": "#SVDebateFinal"
     },
     {
-      "name": "भगवान बिरसा मुंडा",
-      "query": "%22%E0%A4%AD%E0%A4%97%E0%A4%B5%E0%A4%BE%E0%A4%A8+%E0%A4%AC%E0%A4%BF%E0%A4%B0%E0%A4%B8%E0%A4%BE+%E0%A4%AE%E0%A5%81%E0%A4%82%E0%A4%A1%E0%A4%BE%22",
+      "name": "Drew Lock",
+      "query": "%22Drew+Lock%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22%E0%A4%AD%E0%A4%97%E0%A4%B5%E0%A4%BE%E0%A4%A8+%E0%A4%AC%E0%A4%BF%E0%A4%B0%E0%A4%B8%E0%A4%BE+%E0%A4%AE%E0%A5%81%E0%A4%82%E0%A4%A1%E0%A4%BE%22"
+      "url": "http://twitter.com/search?q=%22Drew+Lock%22",
+      "name_zh": "Drew Lock"
     },
     {
-      "name": "1 YEAR ME AND THEE",
-      "query": "%221+YEAR+ME+AND+THEE%22",
+      "name": "#HereWeGo",
+      "query": "%23HereWeGo",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%221+YEAR+ME+AND+THEE%22"
+      "url": "http://twitter.com/search?q=%23HereWeGo",
+      "name_zh": "#HereWeGo"
     },
     {
-      "name": "Medic",
-      "query": "Medic",
+      "name": "Dak Prescott",
+      "query": "%22Dak+Prescott%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Medic"
+      "url": "http://twitter.com/search?q=%22Dak+Prescott%22",
+      "name_zh": "Dak Prescott"
     },
     {
-      "name": "Gojek Modal 1000 DiGoPay",
-      "query": "%22Gojek+Modal+1000+DiGoPay%22",
+      "name": "#ZIPフリースロー毎日チャレンジ",
+      "query": "%23ZIP%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%AD%E3%83%BC%E6%AF%8E%E6%97%A5%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22Gojek+Modal+1000+DiGoPay%22"
+      "url": "http://twitter.com/search?q=%23ZIP%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%AD%E3%83%BC%E6%AF%8E%E6%97%A5%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8",
+      "name_zh": "#ZIPフリースロー毎日チャレンジ"
     },
     {
-      "name": "Wonderboy",
-      "query": "Wonderboy",
+      "name": "Packers",
+      "query": "Packers",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Wonderboy"
+      "url": "http://twitter.com/search?q=Packers",
+      "name_zh": "Packers"
     },
     {
-      "name": "Gallardo",
-      "query": "Gallardo",
+      "name": "Inglaterra",
+      "query": "Inglaterra",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Gallardo"
+      "url": "http://twitter.com/search?q=Inglaterra",
+      "name_zh": "Inglaterra"
     },
     {
-      "name": "Jamaica",
-      "query": "Jamaica",
+      "name": "Deebo",
+      "query": "Deebo",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Jamaica"
+      "url": "http://twitter.com/search?q=Deebo",
+      "name_zh": "Deebo"
     },
     {
-      "name": "Ciampa",
-      "query": "Ciampa",
+      "name": "Seahawks",
+      "query": "Seahawks",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Ciampa"
+      "url": "http://twitter.com/search?q=Seahawks",
+      "name_zh": "Seahawks"
     },
     {
-      "name": "SSの好き",
-      "query": "SS%E3%81%AE%E5%A5%BD%E3%81%8D",
+      "name": "Caleb Downs",
+      "query": "%22Caleb+Downs%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=SS%E3%81%AE%E5%A5%BD%E3%81%8D"
+      "url": "http://twitter.com/search?q=%22Caleb+Downs%22",
+      "name_zh": "Caleb Downs"
     },
     {
-      "name": "ATOM BIRTHDAY CAFE",
-      "query": "%22ATOM+BIRTHDAY+CAFE%22",
+      "name": "Lenoir",
+      "query": "Lenoir",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22ATOM+BIRTHDAY+CAFE%22"
+      "url": "http://twitter.com/search?q=Lenoir",
+      "name_zh": "Lenoir"
     },
     {
-      "name": "告知の告知",
-      "query": "%E5%91%8A%E7%9F%A5%E3%81%AE%E5%91%8A%E7%9F%A5",
+      "name": "Kaelon Black",
+      "query": "%22Kaelon+Black%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E5%91%8A%E7%9F%A5%E3%81%AE%E5%91%8A%E7%9F%A5"
+      "url": "http://twitter.com/search?q=%22Kaelon+Black%22",
+      "name_zh": "Kaelon Black"
     },
     {
-      "name": "जनजातीय गौरव",
-      "query": "%22%E0%A4%9C%E0%A4%A8%E0%A4%9C%E0%A4%BE%E0%A4%A4%E0%A5%80%E0%A4%AF+%E0%A4%97%E0%A5%8C%E0%A4%B0%E0%A4%B5%22",
+      "name": "Browns",
+      "query": "Browns",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22%E0%A4%9C%E0%A4%A8%E0%A4%9C%E0%A4%BE%E0%A4%A4%E0%A5%80%E0%A4%AF+%E0%A4%97%E0%A5%8C%E0%A4%B0%E0%A4%B5%22"
+      "url": "http://twitter.com/search?q=Browns",
+      "name_zh": "Browns"
     },
     {
-      "name": "Valdiri",
-      "query": "Valdiri",
+      "name": "Trafford",
+      "query": "Trafford",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Valdiri"
+      "url": "http://twitter.com/search?q=Trafford",
+      "name_zh": "Trafford"
     },
     {
-      "name": "OLANDRIA BABY2BABY GALA",
-      "query": "%22OLANDRIA+BABY2BABY+GALA%22",
+      "name": "Bosa",
+      "query": "Bosa",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22OLANDRIA+BABY2BABY+GALA%22"
+      "url": "http://twitter.com/search?q=Bosa",
+      "name_zh": "Bosa"
     },
     {
-      "name": "WILD THING",
-      "query": "%22WILD+THING%22",
+      "name": "UConn",
+      "query": "UConn",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22WILD+THING%22"
+      "url": "http://twitter.com/search?q=UConn",
+      "name_zh": "UConn"
     },
     {
-      "name": "Caio",
-      "query": "Caio",
+      "name": "Ferro",
+      "query": "Ferro",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Caio"
+      "url": "http://twitter.com/search?q=Ferro",
+      "name_zh": "Ferro"
     },
     {
-      "name": "ヴーレヴー",
-      "query": "%E3%83%B4%E3%83%BC%E3%83%AC%E3%83%B4%E3%83%BC",
+      "name": "Mo Bamba",
+      "query": "%22Mo+Bamba%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E3%83%B4%E3%83%BC%E3%83%AC%E3%83%B4%E3%83%BC"
+      "url": "http://twitter.com/search?q=%22Mo+Bamba%22",
+      "name_zh": "Mo Bamba"
     },
     {
-      "name": "ORLOV",
-      "query": "ORLOV",
+      "name": "Anderson",
+      "query": "Anderson",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=ORLOV"
+      "url": "http://twitter.com/search?q=Anderson",
+      "name_zh": "Anderson"
     },
     {
-      "name": "ハリソン",
-      "query": "%E3%83%8F%E3%83%AA%E3%82%BD%E3%83%B3",
+      "name": "이번주도",
+      "query": "%EC%9D%B4%EB%B2%88%EC%A3%BC%EB%8F%84",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E3%83%8F%E3%83%AA%E3%82%BD%E3%83%B3"
+      "url": "http://twitter.com/search?q=%EC%9D%B4%EB%B2%88%EC%A3%BC%EB%8F%84",
+      "name_zh": "이번주도"
     },
     {
-      "name": "Beamer",
-      "query": "Beamer",
+      "name": "Peñarol",
+      "query": "Pe%C3%B1arol",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Beamer"
+      "url": "http://twitter.com/search?q=Pe%C3%B1arol",
+      "name_zh": "Peñarol"
     },
     {
-      "name": "eileen",
-      "query": "eileen",
+      "name": "那須くん",
+      "query": "%E9%82%A3%E9%A0%88%E3%81%8F%E3%82%93",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=eileen"
+      "url": "http://twitter.com/search?q=%E9%82%A3%E9%A0%88%E3%81%8F%E3%82%93",
+      "name_zh": "那須くん"
     },
     {
-      "name": "Rafa Márquez",
-      "query": "%22Rafa+M%C3%A1rquez%22",
+      "name": "Tuchel",
+      "query": "Tuchel",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22Rafa+M%C3%A1rquez%22"
+      "url": "http://twitter.com/search?q=Tuchel",
+      "name_zh": "Tuchel"
     },
     {
-      "name": "Divaza",
-      "query": "Divaza",
+      "name": "Pedri",
+      "query": "Pedri",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Divaza"
+      "url": "http://twitter.com/search?q=Pedri",
+      "name_zh": "Pedri"
     },
     {
-      "name": "固定ポスト",
-      "query": "%E5%9B%BA%E5%AE%9A%E3%83%9D%E3%82%B9%E3%83%88",
+      "name": "Ceedee",
+      "query": "Ceedee",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E5%9B%BA%E5%AE%9A%E3%83%9D%E3%82%B9%E3%83%88"
+      "url": "http://twitter.com/search?q=Ceedee",
+      "name_zh": "Ceedee"
     },
     {
-      "name": "前向きフェニックス",
-      "query": "%E5%89%8D%E5%90%91%E3%81%8D%E3%83%95%E3%82%A7%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9",
+      "name": "Mavs",
+      "query": "Mavs",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E5%89%8D%E5%90%91%E3%81%8D%E3%83%95%E3%82%A7%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9"
+      "url": "http://twitter.com/search?q=Mavs",
+      "name_zh": "Mavs"
     },
     {
-      "name": "Blessed Sunday",
-      "query": "%22Blessed+Sunday%22",
+      "name": "Ferreira",
+      "query": "Ferreira",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22Blessed+Sunday%22"
+      "url": "http://twitter.com/search?q=Ferreira",
+      "name_zh": "Ferreira"
     },
     {
-      "name": "Emiro",
-      "query": "Emiro",
+      "name": "Pucallpa",
+      "query": "Pucallpa",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Emiro"
+      "url": "http://twitter.com/search?q=Pucallpa",
+      "name_zh": "Pucallpa"
     },
     {
-      "name": "カムニャック",
-      "query": "%E3%82%AB%E3%83%A0%E3%83%8B%E3%83%A3%E3%83%83%E3%82%AF",
+      "name": "Fajardo",
+      "query": "Fajardo",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E3%82%AB%E3%83%A0%E3%83%8B%E3%83%A3%E3%83%83%E3%82%AF"
+      "url": "http://twitter.com/search?q=Fajardo",
+      "name_zh": "Fajardo"
     },
     {
-      "name": "AAS SCENT OF MOMENT",
-      "query": "%22AAS+SCENT+OF+MOMENT%22",
+      "name": "Godoy Cruz",
+      "query": "%22Godoy+Cruz%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22AAS+SCENT+OF+MOMENT%22"
+      "url": "http://twitter.com/search?q=%22Godoy+Cruz%22",
+      "name_zh": "Godoy Cruz"
     },
     {
-      "name": "Gwayne",
-      "query": "Gwayne",
+      "name": "Texans",
+      "query": "Texans",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Gwayne"
+      "url": "http://twitter.com/search?q=Texans",
+      "name_zh": "Texans"
     },
     {
-      "name": "Claudio",
-      "query": "Claudio",
+      "name": "Tory Horton",
+      "query": "%22Tory+Horton%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Claudio"
+      "url": "http://twitter.com/search?q=%22Tory+Horton%22",
+      "name_zh": "Tory Horton"
     },
     {
-      "name": "バグゴリラ",
-      "query": "%E3%83%90%E3%82%B0%E3%82%B4%E3%83%AA%E3%83%A9",
+      "name": "Shanahan",
+      "query": "Shanahan",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E3%83%90%E3%82%B0%E3%82%B4%E3%83%AA%E3%83%A9"
+      "url": "http://twitter.com/search?q=Shanahan",
+      "name_zh": "Shanahan"
     },
     {
-      "name": "雨の日曜日",
-      "query": "%E9%9B%A8%E3%81%AE%E6%97%A5%E6%9B%9C%E6%97%A5",
+      "name": "Schotty",
+      "query": "Schotty",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E9%9B%A8%E3%81%AE%E6%97%A5%E6%9B%9C%E6%97%A5"
+      "url": "http://twitter.com/search?q=Schotty",
+      "name_zh": "Schotty"
     },
     {
-      "name": "デンジマン",
-      "query": "%E3%83%87%E3%83%B3%E3%82%B8%E3%83%9E%E3%83%B3",
+      "name": "Kerjasama Indonesia Norwegia",
+      "query": "%22Kerjasama+Indonesia+Norwegia%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E3%83%87%E3%83%B3%E3%82%B8%E3%83%9E%E3%83%B3"
+      "url": "http://twitter.com/search?q=%22Kerjasama+Indonesia+Norwegia%22",
+      "name_zh": "Kerjasama Indonesia Norwegia"
     }
   ]
 }
