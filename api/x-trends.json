@@ -1,359 +1,359 @@
 {
   "location": "Worldwide",
   "woeid": 1,
-  "as_of": "2026-11-16T01:38:31Z",
-  "fetched_at": "2026-11-16T09:38:48+08:00",
+  "as_of": "2026-11-17T07:57:40Z",
+  "fetched_at": "2026-11-17T15:58:16+08:00",
   "count": 50,
   "trends": [
     {
-      "name": "Cowboys",
-      "query": "Cowboys",
+      "name": "#caengames",
+      "query": "%23caengames",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Cowboys",
-      "name_zh": "Cowboys"
+      "url": "http://twitter.com/search?q=%23caengames",
+      "name_zh": "#caengames"
     },
     {
-      "name": "49ers",
-      "query": "49ers",
+      "name": "私の名前",
+      "query": "%E7%A7%81%E3%81%AE%E5%90%8D%E5%89%8D",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=49ers",
-      "name_zh": "49ers"
+      "url": "http://twitter.com/search?q=%E7%A7%81%E3%81%AE%E5%90%8D%E5%89%8D",
+      "name_zh": "我的名字"
     },
     {
-      "name": "#ブラックサンダーとミルクマニア",
-      "query": "%23%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%81%A8%E3%83%9F%E3%83%AB%E3%82%AF%E3%83%9E%E3%83%8B%E3%82%A2",
+      "name": "#運命の町当てます",
+      "query": "%23%E9%81%8B%E5%91%BD%E3%81%AE%E7%94%BA%E5%BD%93%E3%81%A6%E3%81%BE%E3%81%99",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%23%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%81%A8%E3%83%9F%E3%83%AB%E3%82%AF%E3%83%9E%E3%83%8B%E3%82%A2",
-      "name_zh": "#ブラックサンダーとミルクマニア"
+      "url": "http://twitter.com/search?q=%23%E9%81%8B%E5%91%BD%E3%81%AE%E7%94%BA%E5%BD%93%E3%81%A6%E3%81%BE%E3%81%99",
+      "name_zh": "#猜猜命运之城"
     },
     {
-      "name": "Niners",
-      "query": "Niners",
+      "name": "わたしの運命の町",
+      "query": "%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AE%E9%81%8B%E5%91%BD%E3%81%AE%E7%94%BA",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Niners",
-      "name_zh": "Niners"
+      "url": "http://twitter.com/search?q=%E3%82%8F%E3%81%9F%E3%81%97%E3%81%AE%E9%81%8B%E5%91%BD%E3%81%AE%E7%94%BA",
+      "name_zh": "我的命运之城"
     },
     {
-      "name": "Von Miller",
-      "query": "%22Von+Miller%22",
+      "name": "Sözcü TV'ye",
+      "query": "%22S%C3%B6zc%C3%BC+TV%27ye%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22Von+Miller%22",
-      "name_zh": "Von Miller"
+      "url": "http://twitter.com/search?q=%22S%C3%B6zc%C3%BC+TV%27ye%22",
+      "name_zh": "前往 Sözcü TV"
     },
     {
-      "name": "#FTTB",
-      "query": "%23FTTB",
+      "name": "#JO1交換",
+      "query": "%23JO1%E4%BA%A4%E6%8F%9B",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%23FTTB",
-      "name_zh": "#FTTB"
+      "url": "http://twitter.com/search?q=%23JO1%E4%BA%A4%E6%8F%9B",
+      "name_zh": "#JO1交换"
     },
     {
-      "name": "Steelers",
-      "query": "Steelers",
+      "name": "#FonzedeVeBasinSUSTURULAMAZ",
+      "query": "%23FonzedeVeBasinSUSTURULAMAZ",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Steelers",
-      "name_zh": "Steelers"
+      "url": "http://twitter.com/search?q=%23FonzedeVeBasinSUSTURULAMAZ",
+      "name_zh": "#FonzedeAndTheBasin 不能被沉默"
     },
     {
-      "name": "Christian Parker",
-      "query": "%22Christian+Parker%22",
+      "name": "#スターバックスを1か月間毎日楽しめる",
+      "query": "%23%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9%E3%82%921%E3%81%8B%E6%9C%88%E9%96%93%E6%AF%8E%E6%97%A5%E6%A5%BD%E3%81%97%E3%82%81%E3%82%8B",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22Christian+Parker%22",
-      "name_zh": "Christian Parker"
+      "url": "http://twitter.com/search?q=%23%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%90%E3%83%83%E3%82%AF%E3%82%B9%E3%82%921%E3%81%8B%E6%9C%88%E9%96%93%E6%AF%8E%E6%97%A5%E6%A5%BD%E3%81%97%E3%82%81%E3%82%8B",
+      "name_zh": "#一个月每天都享受星巴克"
     },
     {
-      "name": "Purdy",
-      "query": "Purdy",
+      "name": "Xマッチ",
+      "query": "X%E3%83%9E%E3%83%83%E3%83%81",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Purdy",
-      "name_zh": "Purdy"
+      "url": "http://twitter.com/search?q=X%E3%83%9E%E3%83%83%E3%83%81",
+      "name_zh": "X 匹配"
     },
     {
-      "name": "England",
-      "query": "England",
+      "name": "江夏の21球",
+      "query": "%E6%B1%9F%E5%A4%8F%E3%81%AE21%E7%90%83",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=England",
-      "name_zh": "England"
+      "url": "http://twitter.com/search?q=%E6%B1%9F%E5%A4%8F%E3%81%AE21%E7%90%83",
+      "name_zh": "江夏的 21 个球场"
     },
     {
-      "name": "Scottie",
-      "query": "Scottie",
+      "name": "江夏さん",
+      "query": "%E6%B1%9F%E5%A4%8F%E3%81%95%E3%82%93",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Scottie",
-      "name_zh": "Scottie"
+      "url": "http://twitter.com/search?q=%E6%B1%9F%E5%A4%8F%E3%81%95%E3%82%93",
+      "name_zh": "江夏先生"
     },
     {
-      "name": "Jerry Jones",
-      "query": "%22Jerry+Jones%22",
+      "name": "Chargers",
+      "query": "Chargers",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22Jerry+Jones%22",
-      "name_zh": "Jerry Jones"
+      "url": "http://twitter.com/search?q=Chargers",
+      "name_zh": "充电器"
     },
     {
-      "name": "Pickens",
-      "query": "Pickens",
+      "name": "JO1 AAO",
+      "query": "%22JO1+AAO%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Pickens",
-      "name_zh": "Pickens"
+      "url": "http://twitter.com/search?q=%22JO1+AAO%22",
+      "name_zh": "JO1 AAO"
     },
     {
-      "name": "Mendoza",
-      "query": "Mendoza",
+      "name": "Ravens",
+      "query": "Ravens",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Mendoza",
-      "name_zh": "Mendoza"
+      "url": "http://twitter.com/search?q=Ravens",
+      "name_zh": "乌鸦队"
     },
     {
-      "name": "Spain",
-      "query": "Spain",
+      "name": "JO1 11TH SINGLE AAO",
+      "query": "%22JO1+11TH+SINGLE+AAO%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Spain",
-      "name_zh": "Spain"
+      "url": "http://twitter.com/search?q=%22JO1+11TH+SINGLE+AAO%22",
+      "name_zh": "JO1第11张单曲AAO"
     },
     {
-      "name": "#SVDebateFinal",
-      "query": "%23SVDebateFinal",
+      "name": "じょうのにちじょ",
+      "query": "%E3%81%98%E3%82%87%E3%81%86%E3%81%AE%E3%81%AB%E3%81%A1%E3%81%98%E3%82%87",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%23SVDebateFinal",
-      "name_zh": "#SVDebateFinal"
+      "url": "http://twitter.com/search?q=%E3%81%98%E3%82%87%E3%81%86%E3%81%AE%E3%81%AB%E3%81%A1%E3%81%98%E3%82%87",
+      "name_zh": "今天的一天"
     },
     {
-      "name": "Drew Lock",
-      "query": "%22Drew+Lock%22",
+      "name": "Cigdem KaraaslanSimdiHapse",
+      "query": "%22Cigdem+KaraaslanSimdiHapse%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22Drew+Lock%22",
-      "name_zh": "Drew Lock"
+      "url": "http://twitter.com/search?q=%22Cigdem+KaraaslanSimdiHapse%22",
+      "name_zh": "西格德姆·克拉斯兰·西姆迪·哈普斯"
     },
     {
-      "name": "#HereWeGo",
-      "query": "%23HereWeGo",
+      "name": "Halk TV",
+      "query": "%22Halk+TV%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%23HereWeGo",
-      "name_zh": "#HereWeGo"
+      "url": "http://twitter.com/search?q=%22Halk+TV%22",
+      "name_zh": "哈克电视"
     },
     {
-      "name": "Dak Prescott",
-      "query": "%22Dak+Prescott%22",
+      "name": "Selalu Hadir Membantu",
+      "query": "%22Selalu+Hadir+Membantu%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22Dak+Prescott%22",
-      "name_zh": "Dak Prescott"
+      "url": "http://twitter.com/search?q=%22Selalu+Hadir+Membantu%22",
+      "name_zh": "始终提供帮助"
     },
     {
-      "name": "#ZIPフリースロー毎日チャレンジ",
-      "query": "%23ZIP%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%AD%E3%83%BC%E6%AF%8E%E6%97%A5%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8",
+      "name": "トライアウト",
+      "query": "%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%23ZIP%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%AD%E3%83%BC%E6%AF%8E%E6%97%A5%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8",
-      "name_zh": "#ZIPフリースロー毎日チャレンジ"
+      "url": "http://twitter.com/search?q=%E3%83%88%E3%83%A9%E3%82%A4%E3%82%A2%E3%82%A6%E3%83%88",
+      "name_zh": "试用"
     },
     {
-      "name": "Packers",
-      "query": "Packers",
+      "name": "HerFona TamAnaParaTufeSimdi",
+      "query": "%22HerFona+TamAnaParaTufeSimdi%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Packers",
-      "name_zh": "Packers"
+      "url": "http://twitter.com/search?q=%22HerFona+TamAnaParaTufeSimdi%22",
+      "name_zh": "HerFona TamAnaParaTufeSimdi"
     },
     {
-      "name": "Inglaterra",
-      "query": "Inglaterra",
+      "name": "朝ドラヒロイン",
+      "query": "%E6%9C%9D%E3%83%89%E3%83%A9%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Inglaterra",
-      "name_zh": "Inglaterra"
+      "url": "http://twitter.com/search?q=%E6%9C%9D%E3%83%89%E3%83%A9%E3%83%92%E3%83%AD%E3%82%A4%E3%83%B3",
+      "name_zh": "阿莎多拉女主角"
     },
     {
-      "name": "Deebo",
-      "query": "Deebo",
+      "name": "風太くん",
+      "query": "%E9%A2%A8%E5%A4%AA%E3%81%8F%E3%82%93",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Deebo",
-      "name_zh": "Deebo"
+      "url": "http://twitter.com/search?q=%E9%A2%A8%E5%A4%AA%E3%81%8F%E3%82%93",
+      "name_zh": "二田君"
     },
     {
-      "name": "Seahawks",
-      "query": "Seahawks",
+      "name": "Zay Flowers",
+      "query": "%22Zay+Flowers%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Seahawks",
-      "name_zh": "Seahawks"
+      "url": "http://twitter.com/search?q=%22Zay+Flowers%22",
+      "name_zh": "扎伊·弗劳尔斯"
     },
     {
-      "name": "Caleb Downs",
-      "query": "%22Caleb+Downs%22",
+      "name": "Travis Head",
+      "query": "%22Travis+Head%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22Caleb+Downs%22",
-      "name_zh": "Caleb Downs"
+      "url": "http://twitter.com/search?q=%22Travis+Head%22",
+      "name_zh": "特拉维斯·海德"
     },
     {
-      "name": "Lenoir",
-      "query": "Lenoir",
+      "name": "ジョイフル",
+      "query": "%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%95%E3%83%AB",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Lenoir",
-      "name_zh": "Lenoir"
+      "url": "http://twitter.com/search?q=%E3%82%B8%E3%83%A7%E3%82%A4%E3%83%95%E3%83%AB",
+      "name_zh": "快乐"
     },
     {
-      "name": "Kaelon Black",
-      "query": "%22Kaelon+Black%22",
+      "name": "재난문자",
+      "query": "%EC%9E%AC%EB%82%9C%EB%AC%B8%EC%9E%90",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22Kaelon+Black%22",
-      "name_zh": "Kaelon Black"
+      "url": "http://twitter.com/search?q=%EC%9E%AC%EB%82%9C%EB%AC%B8%EC%9E%90",
+      "name_zh": "灾难短信"
     },
     {
-      "name": "Browns",
-      "query": "Browns",
+      "name": "ラトリッジ",
+      "query": "%E3%83%A9%E3%83%88%E3%83%AA%E3%83%83%E3%82%B8",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Browns",
-      "name_zh": "Browns"
+      "url": "http://twitter.com/search?q=%E3%83%A9%E3%83%88%E3%83%AA%E3%83%83%E3%82%B8",
+      "name_zh": "拉特利奇"
     },
     {
-      "name": "Trafford",
-      "query": "Trafford",
+      "name": "Optimizely",
+      "query": "Optimizely",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Trafford",
-      "name_zh": "Trafford"
+      "url": "http://twitter.com/search?q=Optimizely",
+      "name_zh": "优化地"
     },
     {
-      "name": "Bosa",
-      "query": "Bosa",
+      "name": "ヘルナンデス",
+      "query": "%E3%83%98%E3%83%AB%E3%83%8A%E3%83%B3%E3%83%87%E3%82%B9",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Bosa",
-      "name_zh": "Bosa"
+      "url": "http://twitter.com/search?q=%E3%83%98%E3%83%AB%E3%83%8A%E3%83%B3%E3%83%87%E3%82%B9",
+      "name_zh": "埃尔南德斯"
     },
     {
-      "name": "UConn",
-      "query": "UConn",
+      "name": "飯沼愛さん",
+      "query": "%E9%A3%AF%E6%B2%BC%E6%84%9B%E3%81%95%E3%82%93",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=UConn",
-      "name_zh": "UConn"
+      "url": "http://twitter.com/search?q=%E9%A3%AF%E6%B2%BC%E6%84%9B%E3%81%95%E3%82%93",
+      "name_zh": "饭沼爱"
     },
     {
-      "name": "Ferro",
-      "query": "Ferro",
+      "name": "Taco Tuesday",
+      "query": "%22Taco+Tuesday%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Ferro",
-      "name_zh": "Ferro"
+      "url": "http://twitter.com/search?q=%22Taco+Tuesday%22",
+      "name_zh": "星期二炸玉米饼"
     },
     {
-      "name": "Mo Bamba",
-      "query": "%22Mo+Bamba%22",
+      "name": "スチュワート",
+      "query": "%E3%82%B9%E3%83%81%E3%83%A5%E3%83%AF%E3%83%BC%E3%83%88",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22Mo+Bamba%22",
-      "name_zh": "Mo Bamba"
+      "url": "http://twitter.com/search?q=%E3%82%B9%E3%83%81%E3%83%A5%E3%83%AF%E3%83%BC%E3%83%88",
+      "name_zh": "斯图尔特"
     },
     {
-      "name": "Anderson",
-      "query": "Anderson",
+      "name": "学歴スロット",
+      "query": "%E5%AD%A6%E6%AD%B4%E3%82%B9%E3%83%AD%E3%83%83%E3%83%88",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Anderson",
-      "name_zh": "Anderson"
+      "url": "http://twitter.com/search?q=%E5%AD%A6%E6%AD%B4%E3%82%B9%E3%83%AD%E3%83%83%E3%83%88",
+      "name_zh": "教育槽位"
     },
     {
-      "name": "이번주도",
-      "query": "%EC%9D%B4%EB%B2%88%EC%A3%BC%EB%8F%84",
+      "name": "Selalu Berikan Pelayanan",
+      "query": "%22Selalu+Berikan+Pelayanan%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%EC%9D%B4%EB%B2%88%EC%A3%BC%EB%8F%84",
-      "name_zh": "이번주도"
+      "url": "http://twitter.com/search?q=%22Selalu+Berikan+Pelayanan%22",
+      "name_zh": "始终提供服务"
     },
     {
-      "name": "Peñarol",
-      "query": "Pe%C3%B1arol",
+      "name": "伝説の左腕",
+      "query": "%E4%BC%9D%E8%AA%AC%E3%81%AE%E5%B7%A6%E8%85%95",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Pe%C3%B1arol",
-      "name_zh": "Peñarol"
+      "url": "http://twitter.com/search?q=%E4%BC%9D%E8%AA%AC%E3%81%AE%E5%B7%A6%E8%85%95",
+      "name_zh": "传说中的左臂"
     },
     {
-      "name": "那須くん",
-      "query": "%E9%82%A3%E9%A0%88%E3%81%8F%E3%82%93",
+      "name": "$COGE",
+      "query": "%24COGE",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E9%82%A3%E9%A0%88%E3%81%8F%E3%82%93",
-      "name_zh": "那須くん"
+      "url": "http://twitter.com/search?q=%24COGE",
+      "name_zh": "$捕获"
     },
     {
-      "name": "Tuchel",
-      "query": "Tuchel",
+      "name": "Jagadguru Rambhadracharya",
+      "query": "%22Jagadguru+Rambhadracharya%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Tuchel",
-      "name_zh": "Tuchel"
+      "url": "http://twitter.com/search?q=%22Jagadguru+Rambhadracharya%22",
+      "name_zh": "贾加古鲁·兰巴德拉查亚"
     },
     {
-      "name": "Pedri",
-      "query": "Pedri",
+      "name": "Tele 1",
+      "query": "%22Tele+1%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Pedri",
-      "name_zh": "Pedri"
+      "url": "http://twitter.com/search?q=%22Tele+1%22",
+      "name_zh": "电话1"
     },
     {
-      "name": "Ceedee",
-      "query": "Ceedee",
+      "name": "Roads for Development",
+      "query": "%22Roads+for+Development%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Ceedee",
-      "name_zh": "Ceedee"
+      "url": "http://twitter.com/search?q=%22Roads+for+Development%22",
+      "name_zh": "发展之路"
     },
     {
-      "name": "Mavs",
-      "query": "Mavs",
+      "name": "Ruto OpeningUp Kenya",
+      "query": "%22Ruto+OpeningUp+Kenya%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Mavs",
-      "name_zh": "Mavs"
+      "url": "http://twitter.com/search?q=%22Ruto+OpeningUp+Kenya%22",
+      "name_zh": "鲁托开放肯尼亚"
     },
     {
-      "name": "Ferreira",
-      "query": "Ferreira",
+      "name": "領空侵犯",
+      "query": "%E9%A0%98%E7%A9%BA%E4%BE%B5%E7%8A%AF",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Ferreira",
-      "name_zh": "Ferreira"
+      "url": "http://twitter.com/search?q=%E9%A0%98%E7%A9%BA%E4%BE%B5%E7%8A%AF",
+      "name_zh": "领空侵犯"
     },
     {
-      "name": "Pucallpa",
-      "query": "Pucallpa",
+      "name": "初代ブルーウォーカー",
+      "query": "%E5%88%9D%E4%BB%A3%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Pucallpa",
-      "name_zh": "Pucallpa"
+      "url": "http://twitter.com/search?q=%E5%88%9D%E4%BB%A3%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC",
+      "name_zh": "第一代蓝色行者"
     },
     {
-      "name": "Fajardo",
-      "query": "Fajardo",
+      "name": "ラキドロ",
+      "query": "%E3%83%A9%E3%82%AD%E3%83%89%E3%83%AD",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Fajardo",
-      "name_zh": "Fajardo"
+      "url": "http://twitter.com/search?q=%E3%83%A9%E3%82%AD%E3%83%89%E3%83%AD",
+      "name_zh": "拉基多罗"
     },
     {
-      "name": "Godoy Cruz",
-      "query": "%22Godoy+Cruz%22",
+      "name": "シカの体",
+      "query": "%E3%82%B7%E3%82%AB%E3%81%AE%E4%BD%93",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22Godoy+Cruz%22",
-      "name_zh": "Godoy Cruz"
+      "url": "http://twitter.com/search?q=%E3%82%B7%E3%82%AB%E3%81%AE%E4%BD%93",
+      "name_zh": "鹿体"
     },
     {
-      "name": "Texans",
-      "query": "Texans",
+      "name": "Kayyum",
+      "query": "Kayyum",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Texans",
-      "name_zh": "Texans"
+      "url": "http://twitter.com/search?q=Kayyum",
+      "name_zh": "受托人"
     },
     {
-      "name": "Tory Horton",
-      "query": "%22Tory+Horton%22",
+      "name": "Kına",
+      "query": "K%C4%B1na",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22Tory+Horton%22",
-      "name_zh": "Tory Horton"
+      "url": "http://twitter.com/search?q=K%C4%B1na",
+      "name_zh": "指甲花"
     },
     {
-      "name": "Shanahan",
-      "query": "Shanahan",
+      "name": "Garpit Kretek",
+      "query": "%22Garpit+Kretek%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Shanahan",
-      "name_zh": "Shanahan"
+      "url": "http://twitter.com/search?q=%22Garpit+Kretek%22",
+      "name_zh": "丁香"
     },
     {
-      "name": "Schotty",
-      "query": "Schotty",
+      "name": "Itati",
+      "query": "Itati",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Schotty",
-      "name_zh": "Schotty"
+      "url": "http://twitter.com/search?q=Itati",
+      "name_zh": "伊塔蒂"
     },
     {
-      "name": "Kerjasama Indonesia Norwegia",
-      "query": "%22Kerjasama+Indonesia+Norwegia%22",
+      "name": "無限大LOVE",
+      "query": "%E7%84%A1%E9%99%90%E5%A4%A7LOVE",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22Kerjasama+Indonesia+Norwegia%22",
-      "name_zh": "Kerjasama Indonesia Norwegia"
+      "url": "http://twitter.com/search?q=%E7%84%A1%E9%99%90%E5%A4%A7LOVE",
+      "name_zh": "无限大LOVE"
     }
   ]
 }
