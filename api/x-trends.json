@@ -1,135 +1,72 @@
 {
   "location": "Worldwide",
   "woeid": 1,
-  "as_of": "2026-11-18T07:31:29Z",
-  "fetched_at": "2026-11-18T15:31:58+08:00",
+  "as_of": "2026-11-19T07:29:11Z",
+  "fetched_at": "2026-11-19T15:29:28+08:00",
   "count": 50,
   "trends": [
     {
-      "name": "毒うさぎ",
-      "query": "%E6%AF%92%E3%81%86%E3%81%95%E3%81%8E",
+      "name": "#水見式",
+      "query": "%23%E6%B0%B4%E8%A6%8B%E5%BC%8F",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E6%AF%92%E3%81%86%E3%81%95%E3%81%8E",
-      "name_zh": "毒兔"
+      "url": "http://twitter.com/search?q=%23%E6%B0%B4%E8%A6%8B%E5%BC%8F",
+      "name_zh": "#水见式"
     },
     {
-      "name": "毒うさぎ",
-      "query": "%E6%AF%92%E3%81%86%E3%81%95%E3%81%8E",
+      "name": "念の強さ",
+      "query": "%E5%BF%B5%E3%81%AE%E5%BC%B7%E3%81%95",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E6%AF%92%E3%81%86%E3%81%95%E3%81%8E",
-      "name_zh": "毒兔"
+      "url": "http://twitter.com/search?q=%E5%BF%B5%E3%81%AE%E5%BC%B7%E3%81%95",
+      "name_zh": "心灵的力量"
     },
     {
-      "name": "毒うさぎ",
-      "query": "%E6%AF%92%E3%81%86%E3%81%95%E3%81%8E",
+      "name": "#InternationalMensDay",
+      "query": "%23InternationalMensDay",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E6%AF%92%E3%81%86%E3%81%95%E3%81%8E",
-      "name_zh": "毒兔"
+      "url": "http://twitter.com/search?q=%23InternationalMensDay",
+      "name_zh": "#国际男士节"
     },
     {
-      "name": "Grimes",
-      "query": "Grimes",
+      "name": "재난문자",
+      "query": "%EC%9E%AC%EB%82%9C%EB%AC%B8%EC%9E%90",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Grimes",
-      "name_zh": "格莱姆斯"
+      "url": "http://twitter.com/search?q=%EC%9E%AC%EB%82%9C%EB%AC%B8%EC%9E%90",
+      "name_zh": "灾难短信"
     },
     {
-      "name": "毒ウサギ",
-      "query": "%E6%AF%92%E3%82%A6%E3%82%B5%E3%82%AE",
+      "name": "#今年もマックにグラコロがやってくる",
+      "query": "%23%E4%BB%8A%E5%B9%B4%E3%82%82%E3%83%9E%E3%83%83%E3%82%AF%E3%81%AB%E3%82%B0%E3%83%A9%E3%82%B3%E3%83%AD%E3%81%8C%E3%82%84%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8B",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E6%AF%92%E3%82%A6%E3%82%B5%E3%82%AE",
-      "name_zh": "毒兔"
+      "url": "http://twitter.com/search?q=%23%E4%BB%8A%E5%B9%B4%E3%82%82%E3%83%9E%E3%83%83%E3%82%AF%E3%81%AB%E3%82%B0%E3%83%A9%E3%82%B3%E3%83%AD%E3%81%8C%E3%82%84%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8B",
+      "name_zh": "#Gracolo 今年将再次登陆 Mac"
     },
     {
-      "name": "Lakers",
-      "query": "Lakers",
+      "name": "#AcneStudiosIconsiam",
+      "query": "%23AcneStudiosIconsiam",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Lakers",
-      "name_zh": "湖人队"
+      "url": "http://twitter.com/search?q=%23AcneStudiosIconsiam",
+      "name_zh": "#AcneStudiosIconsiam"
     },
     {
-      "name": "Hornets",
-      "query": "Hornets",
+      "name": "#TümMagdurlarBugunSPKda",
+      "query": "%23T%C3%BCmMagdurlarBugunSPKda",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=Hornets",
-      "name_zh": "黄蜂队"
+      "url": "http://twitter.com/search?q=%23T%C3%BCmMagdurlarBugunSPKda",
+      "name_zh": "#TümMagdurlarBugunSPK"
     },
     {
-      "name": "#RalphLaurenSG",
-      "query": "%23RalphLaurenSG",
+      "name": "Siraj",
+      "query": "Siraj",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%23RalphLaurenSG",
-      "name_zh": "#RalphLaurenSG"
+      "url": "http://twitter.com/search?q=Siraj",
+      "name_zh": "西拉杰"
     },
     {
-      "name": "#RLHolidaySG",
-      "query": "%23RLHolidaySG",
+      "name": "JJJFAM BEWITCH YOU LIVE",
+      "query": "%22JJJFAM+BEWITCH+YOU+LIVE%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%23RLHolidaySG",
-      "name_zh": "#RLHolidaySG"
-    },
-    {
-      "name": "ミャクミャク",
-      "query": "%E3%83%9F%E3%83%A3%E3%82%AF%E3%83%9F%E3%83%A3%E3%82%AF",
-      "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E3%83%9F%E3%83%A3%E3%82%AF%E3%83%9F%E3%83%A3%E3%82%AF",
-      "name_zh": "妙妙"
-    },
-    {
-      "name": "#MiuxLongchampSiamParagon",
-      "query": "%23MiuxLongchampSiamParagon",
-      "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%23MiuxLongchampSiamParagon",
-      "name_zh": "#MiuxLongchampSiamParagon"
-    },
-    {
-      "name": "Charles Lee",
-      "query": "%22Charles+Lee%22",
-      "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22Charles+Lee%22",
-      "name_zh": "查尔斯·李"
-    },
-    {
-      "name": "#LakeShow",
-      "query": "%23LakeShow",
-      "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%23LakeShow",
-      "name_zh": "#湖秀"
-    },
-    {
-      "name": "ビーアン",
-      "query": "%E3%83%93%E3%83%BC%E3%82%A2%E3%83%B3",
-      "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E3%83%93%E3%83%BC%E3%82%A2%E3%83%B3",
-      "name_zh": "豆"
-    },
-    {
-      "name": "#SorryNotSorryPERTH",
-      "query": "%23SorryNotSorryPERTH",
-      "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%23SorryNotSorryPERTH",
-      "name_zh": "#抱歉不抱歉珀斯"
-    },
-    {
-      "name": "Brandon Miller",
-      "query": "%22Brandon+Miller%22",
-      "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22Brandon+Miller%22",
-      "name_zh": "布兰登·米勒"
-    },
-    {
-      "name": "THETOUCH WITH LINGORM 2026",
-      "query": "%22THETOUCH+WITH+LINGORM+2026%22",
-      "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22THETOUCH+WITH+LINGORM+2026%22",
-      "name_zh": "与 Lingorm 的接触 2026"
-    },
-    {
-      "name": "JR東日本",
-      "query": "JR%E6%9D%B1%E6%97%A5%E6%9C%AC",
-      "tweet_volume": null,
-      "url": "http://twitter.com/search?q=JR%E6%9D%B1%E6%97%A5%E6%9C%AC",
-      "name_zh": "JR东日本"
+      "url": "http://twitter.com/search?q=%22JJJFAM+BEWITCH+YOU+LIVE%22",
+      "name_zh": "JJJFAM 迷惑你现场"
     },
     {
       "name": "ロマシン",
@@ -139,6 +76,13 @@
       "name_zh": "罗马申"
     },
     {
+      "name": "Perkuat Ketahanan Bersama",
+      "query": "%22Perkuat+Ketahanan+Bersama%22",
+      "tweet_volume": null,
+      "url": "http://twitter.com/search?q=%22Perkuat+Ketahanan+Bersama%22",
+      "name_zh": "加强联合韧性"
+    },
+    {
       "name": "Lienel",
       "query": "Lienel",
       "tweet_volume": null,
@@ -146,32 +90,53 @@
       "name_zh": "利内尔"
     },
     {
-      "name": "MAYBELLINE TANGHULU OHAE",
-      "query": "%22MAYBELLINE+TANGHULU+OHAE%22",
+      "name": "TMK AT MARNI SHOP",
+      "query": "%22TMK+AT+MARNI+SHOP%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22MAYBELLINE+TANGHULU+OHAE%22",
-      "name_zh": "美宝莲唐胡鲁奥哈伊"
+      "url": "http://twitter.com/search?q=%22TMK+AT+MARNI+SHOP%22",
+      "name_zh": "TMK 在 Marni 商店"
     },
     {
-      "name": "オレンジの子",
-      "query": "%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%AE%E5%AD%90",
+      "name": "Lucia",
+      "query": "Lucia",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B8%E3%81%AE%E5%AD%90",
-      "name_zh": "橙色的孩子"
+      "url": "http://twitter.com/search?q=Lucia",
+      "name_zh": "露西娅"
     },
     {
-      "name": "票の操作",
-      "query": "%E7%A5%A8%E3%81%AE%E6%93%8D%E4%BD%9C",
+      "name": "INDIA REDEMPTION ARC",
+      "query": "%22INDIA+REDEMPTION+ARC%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E7%A5%A8%E3%81%AE%E6%93%8D%E4%BD%9C",
-      "name_zh": "操纵选票"
+      "url": "http://twitter.com/search?q=%22INDIA+REDEMPTION+ARC%22",
+      "name_zh": "印度救赎弧"
     },
     {
-      "name": "INFOBAR",
-      "query": "INFOBAR",
+      "name": "Mandy",
+      "query": "Mandy",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=INFOBAR",
-      "name_zh": "信息栏"
+      "url": "http://twitter.com/search?q=Mandy",
+      "name_zh": "曼迪"
+    },
+    {
+      "name": "भाखड़ा नहर",
+      "query": "%22%E0%A4%AD%E0%A4%BE%E0%A4%96%E0%A4%A1%E0%A4%BC%E0%A4%BE+%E0%A4%A8%E0%A4%B9%E0%A4%B0%22",
+      "tweet_volume": null,
+      "url": "http://twitter.com/search?q=%22%E0%A4%AD%E0%A4%BE%E0%A4%96%E0%A4%A1%E0%A4%BC%E0%A4%BE+%E0%A4%A8%E0%A4%B9%E0%A4%B0%22",
+      "name_zh": "巴克拉运河"
+    },
+    {
+      "name": "심정지 상태",
+      "query": "%22%EC%8B%AC%EC%A0%95%EC%A7%80+%EC%83%81%ED%83%9C%22",
+      "tweet_volume": null,
+      "url": "http://twitter.com/search?q=%22%EC%8B%AC%EC%A0%95%EC%A7%80+%EC%83%81%ED%83%9C%22",
+      "name_zh": "心脏停搏"
+    },
+    {
+      "name": "Jason",
+      "query": "Jason",
+      "tweet_volume": null,
+      "url": "http://twitter.com/search?q=Jason",
+      "name_zh": "贾森"
     },
     {
       "name": "リエネル",
@@ -181,74 +146,81 @@
       "name_zh": "里内尔"
     },
     {
-      "name": "Naz Reid",
-      "query": "%22Naz+Reid%22",
+      "name": "プリミー",
+      "query": "%E3%83%97%E3%83%AA%E3%83%9F%E3%83%BC",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22Naz+Reid%22",
-      "name_zh": "纳兹·里德"
+      "url": "http://twitter.com/search?q=%E3%83%97%E3%83%AA%E3%83%9F%E3%83%BC",
+      "name_zh": "主要的"
     },
     {
-      "name": "紫のやつ",
-      "query": "%E7%B4%AB%E3%81%AE%E3%82%84%E3%81%A4",
+      "name": "Gambhir",
+      "query": "Gambhir",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E7%B4%AB%E3%81%AE%E3%82%84%E3%81%A4",
-      "name_zh": "紫色的那个"
+      "url": "http://twitter.com/search?q=Gambhir",
+      "name_zh": "甘比尔"
     },
     {
-      "name": "Coby White",
-      "query": "%22Coby+White%22",
+      "name": "具現化系",
+      "query": "%E5%85%B7%E7%8F%BE%E5%8C%96%E7%B3%BB",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22Coby+White%22",
-      "name_zh": "科比·怀特"
+      "url": "http://twitter.com/search?q=%E5%85%B7%E7%8F%BE%E5%8C%96%E7%B3%BB",
+      "name_zh": "体现系统"
     },
     {
-      "name": "A案とC案",
-      "query": "A%E6%A1%88%E3%81%A8C%E6%A1%88",
+      "name": "アンソロピック",
+      "query": "%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=A%E6%A1%88%E3%81%A8C%E6%A1%88",
-      "name_zh": "A计划和C计划"
+      "url": "http://twitter.com/search?q=%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF",
+      "name_zh": "人择的"
     },
     {
-      "name": "TGL SPECIAL FANSIGN",
-      "query": "%22TGL+SPECIAL+FANSIGN%22",
+      "name": "इंदिरा गांधी",
+      "query": "%22%E0%A4%87%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0%E0%A4%BE+%E0%A4%97%E0%A4%BE%E0%A4%82%E0%A4%A7%E0%A5%80%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22TGL+SPECIAL+FANSIGN%22",
-      "name_zh": "特别签名日期"
+      "url": "http://twitter.com/search?q=%22%E0%A4%87%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0%E0%A4%BE+%E0%A4%97%E0%A4%BE%E0%A4%82%E0%A4%A7%E0%A5%80%22",
+      "name_zh": "英迪拉·甘地"
     },
     {
-      "name": "PASMO",
-      "query": "PASMO",
+      "name": "Henry Nicholls",
+      "query": "%22Henry+Nicholls%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=PASMO",
-      "name_zh": "乐队"
+      "url": "http://twitter.com/search?q=%22Henry+Nicholls%22",
+      "name_zh": "亨利·尼科尔斯"
     },
     {
-      "name": "FOURTH WITH JELLYCAT",
-      "query": "%22FOURTH+WITH+JELLYCAT%22",
+      "name": "チカッパ",
+      "query": "%E3%83%81%E3%82%AB%E3%83%83%E3%83%91",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22FOURTH+WITH+JELLYCAT%22",
-      "name_zh": "第四名：JELLYCAT"
+      "url": "http://twitter.com/search?q=%E3%83%81%E3%82%AB%E3%83%83%E3%83%91",
+      "name_zh": "千卡帕"
     },
     {
-      "name": "こいつうさぎ",
-      "query": "%E3%81%93%E3%81%84%E3%81%A4%E3%81%86%E3%81%95%E3%81%8E",
+      "name": "Rapat Paripurna DPR RI",
+      "query": "%22Rapat+Paripurna+DPR+RI%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E3%81%93%E3%81%84%E3%81%A4%E3%81%86%E3%81%95%E3%81%8E",
-      "name_zh": "这只兔子"
+      "url": "http://twitter.com/search?q=%22Rapat+Paripurna+DPR+RI%22",
+      "name_zh": "DPR RI 全体会议"
     },
     {
-      "name": "これうさぎ",
-      "query": "%E3%81%93%E3%82%8C%E3%81%86%E3%81%95%E3%81%8E",
+      "name": "PREMIERDRIP X ETHAN",
+      "query": "%22PREMIERDRIP+X+ETHAN%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E3%81%93%E3%82%8C%E3%81%86%E3%81%95%E3%81%8E",
-      "name_zh": "这是一只兔子"
+      "url": "http://twitter.com/search?q=%22PREMIERDRIP+X+ETHAN%22",
+      "name_zh": "PREMIERDRIP X 伊森"
     },
     {
-      "name": "좋은 결과",
-      "query": "%22%EC%A2%8B%EC%9D%80+%EA%B2%B0%EA%B3%BC%22",
+      "name": "タラップ",
+      "query": "%E3%82%BF%E3%83%A9%E3%83%83%E3%83%97",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22%EC%A2%8B%EC%9D%80+%EA%B2%B0%EA%B3%BC%22",
-      "name_zh": "好的结果"
+      "url": "http://twitter.com/search?q=%E3%82%BF%E3%83%A9%E3%83%83%E3%83%97",
+      "name_zh": "舷梯"
+    },
+    {
+      "name": "प्रथम महिला",
+      "query": "%22%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE+%E0%A4%AE%E0%A4%B9%E0%A4%BF%E0%A4%B2%E0%A4%BE%22",
+      "tweet_volume": null,
+      "url": "http://twitter.com/search?q=%22%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A5%E0%A4%AE+%E0%A4%AE%E0%A4%B9%E0%A4%BF%E0%A4%B2%E0%A4%BE%22",
+      "name_zh": "第一夫人"
     },
     {
       "name": "ロマンティックシンドローム",
@@ -258,102 +230,130 @@
       "name_zh": "浪漫综合症"
     },
     {
-      "name": "お前うさぎ",
-      "query": "%E3%81%8A%E5%89%8D%E3%81%86%E3%81%95%E3%81%8E",
+      "name": "連結範囲",
+      "query": "%E9%80%A3%E7%B5%90%E7%AF%84%E5%9B%B2",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E3%81%8A%E5%89%8D%E3%81%86%E3%81%95%E3%81%8E",
-      "name_zh": "你这只兔子"
+      "url": "http://twitter.com/search?q=%E9%80%A3%E7%B5%90%E7%AF%84%E5%9B%B2",
+      "name_zh": "合并范围"
     },
     {
-      "name": "ネット投票",
-      "query": "%E3%83%8D%E3%83%83%E3%83%88%E6%8A%95%E7%A5%A8",
+      "name": "부정행위",
+      "query": "%EB%B6%80%EC%A0%95%ED%96%89%EC%9C%84",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E3%83%8D%E3%83%83%E3%83%88%E6%8A%95%E7%A5%A8",
-      "name_zh": "网上投票"
+      "url": "http://twitter.com/search?q=%EB%B6%80%EC%A0%95%ED%96%89%EC%9C%84",
+      "name_zh": "作弊"
     },
     {
-      "name": "KARINA CHANEL BEAUTY POPUP",
-      "query": "%22KARINA+CHANEL+BEAUTY+POPUP%22",
+      "name": "LOVE TRAP Q2",
+      "query": "%22LOVE+TRAP+Q2%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22KARINA+CHANEL+BEAUTY+POPUP%22",
-      "name_zh": "卡琳娜·香奈儿 (KARINA CHANEL) 美容快闪店"
+      "url": "http://twitter.com/search?q=%22LOVE+TRAP+Q2%22",
+      "name_zh": "爱情陷阱Q2"
     },
     {
-      "name": "ゴルディア",
-      "query": "%E3%82%B4%E3%83%AB%E3%83%87%E3%82%A3%E3%82%A2",
+      "name": "nginx",
+      "query": "nginx",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E3%82%B4%E3%83%AB%E3%83%87%E3%82%A3%E3%82%A2",
-      "name_zh": "戈尔迪亚"
+      "url": "http://twitter.com/search?q=nginx",
+      "name_zh": "nginx"
     },
     {
-      "name": "ICOCA",
-      "query": "ICOCA",
+      "name": "糸の長さ",
+      "query": "%E7%B3%B8%E3%81%AE%E9%95%B7%E3%81%95",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=ICOCA",
-      "name_zh": "干净的"
+      "url": "http://twitter.com/search?q=%E7%B3%B8%E3%81%AE%E9%95%B7%E3%81%95",
+      "name_zh": "螺纹长度"
     },
     {
-      "name": "これウサギ",
-      "query": "%E3%81%93%E3%82%8C%E3%82%A6%E3%82%B5%E3%82%AE",
+      "name": "Prasidh",
+      "query": "Prasidh",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E3%81%93%E3%82%8C%E3%82%A6%E3%82%B5%E3%82%AE",
-      "name_zh": "这是一只兔子"
+      "url": "http://twitter.com/search?q=Prasidh",
+      "name_zh": "普拉西德"
     },
     {
-      "name": "楽天証券",
-      "query": "%E6%A5%BD%E5%A4%A9%E8%A8%BC%E5%88%B8",
+      "name": "JT減配",
+      "query": "JT%E6%B8%9B%E9%85%8D",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E6%A5%BD%E5%A4%A9%E8%A8%BC%E5%88%B8",
-      "name_zh": "乐天证券"
+      "url": "http://twitter.com/search?q=JT%E6%B8%9B%E9%85%8D",
+      "name_zh": "JT减配"
     },
     {
-      "name": "B案採用",
-      "query": "B%E6%A1%88%E6%8E%A1%E7%94%A8",
+      "name": "Neon",
+      "query": "Neon",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=B%E6%A1%88%E6%8E%A1%E7%94%A8",
-      "name_zh": "B案采用"
+      "url": "http://twitter.com/search?q=Neon",
+      "name_zh": "氖"
     },
     {
-      "name": "Wujudkan Fondasi Stabilitas",
-      "query": "%22Wujudkan+Fondasi+Stabilitas%22",
+      "name": "子会社の支配喪失",
+      "query": "%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%81%AE%E6%94%AF%E9%85%8D%E5%96%AA%E5%A4%B1",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22Wujudkan+Fondasi+Stabilitas%22",
-      "name_zh": "为稳定奠定基础"
+      "url": "http://twitter.com/search?q=%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%81%AE%E6%94%AF%E9%85%8D%E5%96%AA%E5%A4%B1",
+      "name_zh": "失去子公司的控制权"
     },
     {
-      "name": "公選法規定",
-      "query": "%E5%85%AC%E9%81%B8%E6%B3%95%E8%A6%8F%E5%AE%9A",
+      "name": "セキュリティコード",
+      "query": "%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%82%B3%E3%83%BC%E3%83%89",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E5%85%AC%E9%81%B8%E6%B3%95%E8%A6%8F%E5%AE%9A",
-      "name_zh": "公共选举法的规定"
+      "url": "http://twitter.com/search?q=%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%82%B3%E3%83%BC%E3%83%89",
+      "name_zh": "安全码"
     },
     {
-      "name": "JJ AT ALDO EMQUARTIER",
-      "query": "%22JJ+AT+ALDO+EMQUARTIER%22",
+      "name": "PRX Primmie",
+      "query": "%22PRX+Primmie%22",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22JJ+AT+ALDO+EMQUARTIER%22",
-      "name_zh": "JJ 在 ALDO EMQUUARTIER"
+      "url": "http://twitter.com/search?q=%22PRX+Primmie%22",
+      "name_zh": "PRX初选"
     },
     {
-      "name": "ネオユニオン",
-      "query": "%E3%83%8D%E3%82%AA%E3%83%A6%E3%83%8B%E3%82%AA%E3%83%B3",
+      "name": "グルンガスト",
+      "query": "%E3%82%B0%E3%83%AB%E3%83%B3%E3%82%AC%E3%82%B9%E3%83%88",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E3%83%8D%E3%82%AA%E3%83%A6%E3%83%8B%E3%82%AA%E3%83%B3",
-      "name_zh": "新联盟"
+      "url": "http://twitter.com/search?q=%E3%82%B0%E3%83%AB%E3%83%B3%E3%82%AC%E3%82%B9%E3%83%88",
+      "name_zh": "格伦古斯特"
     },
     {
-      "name": "こいつウサギ",
-      "query": "%E3%81%93%E3%81%84%E3%81%A4%E3%82%A6%E3%82%B5%E3%82%AE",
+      "name": "カレンダー",
+      "query": "%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%E3%81%93%E3%81%84%E3%81%A4%E3%82%A6%E3%82%B5%E3%82%AE",
-      "name_zh": "这家伙是一只兔子"
+      "url": "http://twitter.com/search?q=%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC",
+      "name_zh": "日历"
     },
     {
-      "name": "Shehzad Tehseen",
-      "query": "%22Shehzad+Tehseen%22",
+      "name": "ロシア子会社7社",
+      "query": "%E3%83%AD%E3%82%B7%E3%82%A2%E5%AD%90%E4%BC%9A%E7%A4%BE7%E7%A4%BE",
       "tweet_volume": null,
-      "url": "http://twitter.com/search?q=%22Shehzad+Tehseen%22",
-      "name_zh": "谢赫扎德·特辛"
+      "url": "http://twitter.com/search?q=%E3%83%AD%E3%82%B7%E3%82%A2%E5%AD%90%E4%BC%9A%E7%A4%BE7%E7%A4%BE",
+      "name_zh": "7 家俄罗斯子公司"
+    },
+    {
+      "name": "厚みの唇",
+      "query": "%E5%8E%9A%E3%81%BF%E3%81%AE%E5%94%87",
+      "tweet_volume": null,
+      "url": "http://twitter.com/search?q=%E5%8E%9A%E3%81%BF%E3%81%AE%E5%94%87",
+      "name_zh": "厚嘴唇"
+    },
+    {
+      "name": "Zip Security",
+      "query": "%22Zip+Security%22",
+      "tweet_volume": null,
+      "url": "http://twitter.com/search?q=%22Zip+Security%22",
+      "name_zh": "邮政编码安全"
+    },
+    {
+      "name": "리트 만점자",
+      "query": "%22%EB%A6%AC%ED%8A%B8+%EB%A7%8C%EC%A0%90%EC%9E%90%22",
+      "tweet_volume": null,
+      "url": "http://twitter.com/search?q=%22%EB%A6%AC%ED%8A%B8+%EB%A7%8C%EC%A0%90%EC%9E%90%22",
+      "name_zh": "完美得分手"
+    },
+    {
+      "name": "アルキンズ",
+      "query": "%E3%82%A2%E3%83%AB%E3%82%AD%E3%83%B3%E3%82%BA",
+      "tweet_volume": null,
+      "url": "http://twitter.com/search?q=%E3%82%A2%E3%83%AB%E3%82%AD%E3%83%B3%E3%82%BA",
+      "name_zh": "阿尔金斯"
     }
   ]
 }
